@@ -16,3 +16,26 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+        Profissional dedicado e atualizado. Sempre me senti acolhido e seguro durante todo o tratamento.
+        <div class="testimonial-author">- Carlos Eduardo</div>
+      </blockquote>
+    </section>
+    <section class="contact" id="contact">
+      <h2>Contato</h2>
+      <p>Entre em contato para agendar uma consulta ou tirar dúvidas.</p>
+      <form>
+        <label for="name">Nome</label>
+        <input type="text" id="name" name="name" placeholder="Seu nome" required />
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="seu@email.com" required />
+        <label for="message">Mensagem</label>
+        <textarea id="message" name="message" placeholder="Escreva sua mensagem aqui..." required></textarea>
+        <button type="submit">Enviar</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    &copy; 2024 Dr. João Silva - Todos os direitos reservados
+  </footer>
+</body>
+</html>
